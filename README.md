@@ -1,3 +1,3 @@
 # mods_for_multiplayer
 
-The list: https://github.com/mon0rail/mods_for_multiplayer/wiki
+목록(작성 중): https://github.com/mon0rail/mods_for_multiplayer/wiki
